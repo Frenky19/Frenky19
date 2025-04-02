@@ -12,7 +12,7 @@
   
   <!-- Гифка справа -->
   <div style="flex-shrink: 0; border: none !important">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG4yeTc1MzcwNmU3aWo1MW15Z3V6NWRzcjQ3czdxOXZzamN3b2dnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" 
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxoMHg3dHU0NTloYnpnYTdjcTR2eTY3bTh6bTgzMDFlOGEzMGduNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" 
          width="250" 
          style="display: block; border: none !important">
   </div>
