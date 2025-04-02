@@ -1,4 +1,4 @@
-# <a href="(https://github.com/Frenky19)" style="color: blue; text-decoration: none">Andrey Golovushkin</a>
+# <a href="https://github.com/Frenky19" style="color: blue; text-decoration: none">Andrey Golovushkin</a>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; margin: 0; padding: 0; gap: 20px">
   <!-- Текст слева -->
