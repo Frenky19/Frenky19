@@ -13,7 +13,7 @@
   <!-- Гифка справа -->
   <div style="flex-shrink: 0; border: none !important">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3loYWd1bzU3NHNsOWh6eWU1YWtjbGVweGjmOHMxdDl2YXVwdWZ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5vB4aErlVtVsywBw/giphy.gif" 
-         width="300" 
+         width="250" 
          style="display: block; border: none !important">
   </div>
 </div>
