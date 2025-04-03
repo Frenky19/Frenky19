@@ -53,7 +53,7 @@ def about_me():
 • 🕹️ <strong>Gaming Mindset:</strong> Applying strategic thinking from WoW to code architecture<br>  
 • 📚 <strong>Continuous Learning:</strong> Currently exploring FastAPI & Docker ecosystems<br>  
 • 🛡️ <strong>Stress Immunity:</strong> Full composure forged in soulslike gaming fires<br>
-•- ⚔️ <strong>Boss Battle Mentality:</strong> "You Died" is just a progress checkpoint<br>
+• ⚔️ <strong>Boss Battle Mentality:</strong> "You Died" is just a progress checkpoint<br>
 </p>
 
 ---
