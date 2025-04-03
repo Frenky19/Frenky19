@@ -29,20 +29,18 @@ def about_me():
 ---
 
 ### 🎮 When I'm Not Coding
-```markdown
 - ♟️ Playing games;)
 - 🧩 Complex Puzzle Solving
 - 🌐 Exploring New Tech Horizons
 - 🎲 Board Game Strategy Sessions
 - 🎬 Anime Universe Exploration: Analyzing Jojo's big "brains"
-```
 
 ---
 
 ### 💬 Let's Connect!
 "Great developers aren't born - they're connected. Let's build something that makes processors sweat!"
-```markdown
+
 [![Telegram](https://img.shields.io/badge/Telegram-@Frenky_19-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Frenky_19)
 [![Discord](https://img.shields.io/badge/Discord-nadek0%234870-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/nadek0)
 [![Email](https://img.shields.io/badge/Email-Write_me-FFA500?logo=gmail&logoColor=white&style=flat-square)](mailto:frenkodetto@yandex.ru)
-```
+
