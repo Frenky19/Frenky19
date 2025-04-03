@@ -47,23 +47,21 @@ def about_me():
 ---
 
 ### 🎯 Core Strengths
-<p style="font-size: 26px">
-• 🧠 <strong>Problem Solving:</strong> From code debugging to real-life puzzles<br>
-• 🔍 <strong>Research Mastery:</strong> "If it exists online, I'll find it" approach<br>  
-• 🕹️ <strong>Gaming Mindset:</strong> Applying strategic thinking from WoW to code architecture<br>  
-• 📚 <strong>Continuous Learning:</strong> Currently exploring FastAPI & Docker ecosystems<br>  
-• 🛡️ <strong>Stress Immunity:</strong> Full composure forged in soulslike gaming fires<br>
-• ⚔️ <strong>Boss Battle Mentality:</strong> "You Died" is just a progress checkpoint
-</p>
+- 🧠 Problem Solving: From code debugging to real-life puzzles
+- 🔍 Research Mastery: "If it exists online, I'll find it" approach  
+- 🕹️ Gaming Mindset: Applying strategic thinking from WoW to code architecture 
+- 📚 Continuous Learning: Currently exploring FastAPI & Docker ecosystems  
+- 🛡️ Stress Immunity: Full composure forged in soulslike gaming fires
+- ⚔️ Boss Battle Mentality: "You Died" is just a progress checkpoint
 
 ---
 
 ### 🎮 When I'm Not Coding
-• ♟️ Playing games;)
-• 🧩 Complex Puzzle Solving
-• 🌐 Exploring New Tech Horizons
-• 🎲 Board Game Strategy Sessions
-• 🎬 Anime Universe Exploration: Analyzing Jojo's big "brains"
+- ♟️ Playing games;)
+- 🧩 Complex Puzzle Solving
+- 🌐 Exploring New Tech Horizons
+- 🎲 Board Game Strategy Sessions
+- 🎬 Anime Universe Exploration: Analyzing Jojo's big "brains"
 
 <br>
 <br>
