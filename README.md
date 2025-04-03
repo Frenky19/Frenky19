@@ -46,6 +46,8 @@ def about_me():
 
 ---
 
-<div align="center">
-![GIF Profile](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3loYWd1bzU3NHNsOWh6eWU1YWtjbGVweGpmOHMxdDl2YXVwdWZ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5vB4aErlVtVsywBw/giphy.gif)
+<div style="display: flex; align-items: center; gap: 20px">
+  <div>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x4bzlsMWU3Y3QwdzlvbnRoaW1uZzk3NTRrcnRwbGUzdmR6cHZnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5vB4aErlVtVsywBw/giphy.gif." width="300">
+  </div>
 </div>
