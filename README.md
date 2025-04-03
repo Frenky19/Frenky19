@@ -11,6 +11,15 @@
 [![Discord](https://img.shields.io/badge/Discord-nadek0%234870-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/nadek0)
 [![Email](https://img.shields.io/badge/Email-Write_me-FFA500?logo=gmail&logoColor=white&style=flat-square)](mailto:frenkodetto@yandex.ru)
 
+### About me:
+```python
+def about_me():
+    current_mission = "Building scalable backend systems"
+    learning_path = "Advanced Python Developer @ Yandex Practicum"
+    superpower = "Professional Googler™ (10+ years XP)"
+    hobbies = ["Solving coding puzzles", "Strategic gaming", "Tech exploration"]
+    return {"status": "Open for collaborations!"}
+```
 </div>
 
 
