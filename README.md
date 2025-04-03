@@ -44,6 +44,8 @@ def about_me():
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
 </p>
 
+---
+
 ### 🎯 Core Strengths
 - 🧠 **Problem Solving:** From code debugging to real-life puzzles  
 - 🔍 **Research Mastery:** "If it exists online, I'll find it" approach  
@@ -70,8 +72,6 @@ def about_me():
 [![Telegram](https://img.shields.io/badge/Telegram-@Frenky_19-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Frenky_19)
 [![Discord](https://img.shields.io/badge/Discord-nadek0%234870-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/nadek0)
 [![Email](https://img.shields.io/badge/Email-Write_me-FFA500?logo=gmail&logoColor=white&style=flat-square)](mailto:frenkodetto@yandex.ru)
-
----
 
 <div align="center">
   
