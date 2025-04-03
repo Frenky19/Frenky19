@@ -24,5 +24,15 @@ def about_me():
     return {"status": "Open for collaborations!"}
 ```
 
+---
+
+### 🎯 Core Strengths
+- 🧠 **Problem Solving:** From code debugging to real-life puzzles  
+- 🔍 **Research Mastery:** "If it exists online, I'll find it" approach  
+- 🕹️ **Gaming Mindset:** Applying strategic thinking from Dota 2 to code architecture  
+- 📚 **Continuous Learning:** Currently exploring FastAPI & Docker ecosystems  
+
+---
+
 
 
