@@ -45,5 +45,5 @@ def about_me():
 [![Email](https://img.shields.io/badge/Email-Write_me-FFA500?logo=gmail&logoColor=white&style=flat-square)](mailto:frenkodetto@yandex.ru)
 
 <div align="center">
-Code Flow![GIF Profile](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3loYWd1bzU3NHNsOWh6eWU1YWtjbGVweGpmOHMxdDl2YXVwdWZ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5vB4aErlVtVsywBw/giphy.gif)
+![GIF Profile](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3loYWd1bzU3NHNsOWh6eWU1YWtjbGVweGpmOHMxdDl2YXVwdWZ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5vB4aErlVtVsywBw/giphy.gif)
 </div>
