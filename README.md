@@ -32,6 +32,7 @@ def about_me():
 
 #### 🌱 Learning Basics
 <p align="left">
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
