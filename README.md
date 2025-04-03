@@ -63,6 +63,8 @@ def about_me():
 - 🎲 Board Game Strategy Sessions
 - 🎬 Anime Universe Exploration: Analyzing Jojo's big "brains"
 
+<br>
+<br>
 
 <a href="https://github.com/Frenky19" target="_blank">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://catfact.ninja/fact&query=%24.fact&label=Cat+Fact+%F0%9F%90%88&color=1e90ff&style=for-the-badge&logo=github&logoColor=white&labelFontSize=16&width=500" alt="Daily Cat Fact">
