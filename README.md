@@ -16,7 +16,6 @@ def about_me():
     hobbies = ["Solving coding puzzles", "Strategic gaming", "Tech exploration"]
     return {"status": "Open for collaborations!"}
 ```
-### 🛠️ Tech Stack
 
 #### 🔥 Core Stack
 <p align="left">
