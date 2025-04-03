@@ -44,7 +44,6 @@ def about_me():
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
 </p>
----
 
 ### 🎯 Core Strengths
 - 🧠 **Problem Solving:** From code debugging to real-life puzzles  
