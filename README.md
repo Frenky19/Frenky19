@@ -17,7 +17,6 @@
          style="display: block; border: none !important">
   </div>
 </div>
-сделай так, чтобы расположение элементов было посередине
 
 
 
