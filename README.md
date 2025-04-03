@@ -61,7 +61,7 @@ def about_me():
 - 🎬 Anime Universe Exploration: Analyzing Jojo's big "brains"
 
 ---
-
+[![Cat Fact](https://img.shields.io/badge/dynamic/json?url=https://catfact.ninja/fact&query=%24.fact&label=Cat%20Fact%20%F0%9F%90%88&color=1e90ff)](https://github.com/Frenky19)
 ## 💬 Let's Connect!
 "Great developers aren't born - they're connected. Let's build something that makes processors sweat!"
 
