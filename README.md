@@ -9,7 +9,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Frenky_19-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Frenky_19)
 [![Discord](https://img.shields.io/badge/Discord-nadek0%234870-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/nadek0)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Андрей-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/79850469767)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:frenkodetto@yandex.ru)
 
 </div>
 
