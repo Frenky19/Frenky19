@@ -51,6 +51,7 @@ def about_me():
 - 📚 **Continuous Learning:** Currently exploring FastAPI & Docker ecosystems  
 - 🛡️ **Stress Immunity:** Full composure forged in soulslike gaming fires
 - ⚔️ **Boss Battle Mentality:** "You Died" is just a progress checkpoint
+
 ---
 
 ### 🎮 When I'm Not Coding
@@ -60,7 +61,6 @@ def about_me():
 - 🎲 Board Game Strategy Sessions
 - 🎬 Anime Universe Exploration: Analyzing Jojo's big "brains"
 
----
 
 [![Cat Fact](https://img.shields.io/badge/dynamic/json?url=https://catfact.ninja/fact&query=%24.fact&label=Cat%20Fact%20%F0%9F%90%88&color=1e90ff)](https://github.com/Frenky19)
 
