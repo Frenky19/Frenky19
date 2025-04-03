@@ -35,6 +35,13 @@ def about_me():
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
+#### 🤖 AI Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/DeepSeek-0033A0?logo=deepseek&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Grok-00B2FF?logo=grafana&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+</p>
+
 #### 🌱 Learning & Future Goals
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
