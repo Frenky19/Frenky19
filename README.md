@@ -47,12 +47,12 @@ def about_me():
 ---
 
 ### 🎯 Core Strengths
-- 🧠 Problem Solving: From code debugging to real-life puzzles
-- 🔍 Research Mastery: "If it exists online, I'll find it" approach  
-- 🕹️ Gaming Mindset: Applying strategic thinking from WoW to code architecture 
-- 📚 Continuous Learning: Currently exploring FastAPI & Docker ecosystems  
-- 🛡️ Stress Immunity: Full composure forged in soulslike gaming fires
-- ⚔️ Boss Battle Mentality: "You Died" is just a progress checkpoint
+- 🧠 **Problem Solving**: From code debugging to real-life puzzles
+- 🔍 **Research Mastery**: "If it exists online, I'll find it" approach  
+- 🕹️ **Gaming Mindset**: Applying strategic thinking from WoW to code architecture 
+- 📚 **Continuous Learning**: Currently exploring FastAPI & Docker ecosystems  
+- 🛡️ **Stress Immunity**: Full composure forged in soulslike gaming fires
+- ⚔️ **Boss Battle Mentality**: "You Died" is just a progress checkpoint
 
 ---
 
