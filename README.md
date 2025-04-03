@@ -4,7 +4,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcom+to+my+profile!;I'm+studying+backend+python+development;Want+to+learn+something+new;10%2B+years+of+promting+throuth+internet%3A))]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcom+to+my+profile!;I'm+studying+backend+python+development;Want+to+learn+something+new;10%2B+years+of+promting+throuth+internet%3A)
 
 
 
