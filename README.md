@@ -47,7 +47,7 @@ def about_me():
 ---
 
 ### 🎯 Core Strengths
-<p style="font-size: 18px">
+<p style="font-size: 26px">
 • 🧠 <strong>Problem Solving:</strong> From code debugging to real-life puzzles<br>
 • 🔍 <strong>Research Mastery:</strong> "If it exists online, I'll find it" approach<br>  
 • 🕹️ <strong>Gaming Mindset:</strong> Applying strategic thinking from WoW to code architecture<br>  
