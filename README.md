@@ -43,7 +43,7 @@ def about_me():
 [![Telegram](https://img.shields.io/badge/Telegram-@Frenky_19-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Frenky_19)
 [![Discord](https://img.shields.io/badge/Discord-nadek0%234870-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/nadek0)
 [![Email](https://img.shields.io/badge/Email-Write_me-FFA500?logo=gmail&logoColor=white&style=flat-square)](mailto:frenkodetto@yandex.ru)
-<div align="center">
-Code Flow
 
-</div> ```
+<div align="center">
+Code Flow![GIF Profile](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3loYWd1bzU3NHNsOWh6eWU1YWtjbGVweGpmOHMxdDl2YXVwdWZ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5vB4aErlVtVsywBw/giphy.gif)
+</div>
