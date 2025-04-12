@@ -40,6 +40,9 @@ def about_me():
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/DeepSeek-0033A0?logo=deepseek&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Grok-00B2FF?logo=grafana&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?logo=google&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/n8n-00B2FF?logo=n8n&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Tilda-FF6B00?logo=tilda&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
 #### 🌱 Learning & Future Goals
