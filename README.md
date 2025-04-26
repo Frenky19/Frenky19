@@ -80,9 +80,3 @@ def about_me():
 [![Telegram](https://img.shields.io/badge/Telegram-@Frenky_19-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Frenky_19)
 [![Discord](https://img.shields.io/badge/Discord-nadek0%234870-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/nadek0)
 [![Email](https://img.shields.io/badge/Email-Write_me-FFA500?logo=gmail&logoColor=white&style=flat-square)](mailto:frenkodetto@yandex.ru)
-
-<br>
-
-<a href="https://github.com/Frenky19" target="_blank">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://catfact.ninja/fact&query=%24.fact&label=Cat+Fact+%F0%9F%90%88&color=1e90ff&style=for-the-badge&logo=github&logoColor=white&labelFontSize=30&width=500" alt="Daily Cat Fact">
-</a>
