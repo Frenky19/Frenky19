@@ -75,7 +75,7 @@ def about_me():
 ---
 
 ## 💬 Let's Connect!
-"Great developers aren't born - they're connected. Let's build something that makes processors sweat!"
+"Great developers aren't born - they're connected. Let's build something sweat!"
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Frenky_19-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Frenky_19)
 [![Discord](https://img.shields.io/badge/Discord-nadek0%234870-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/nadek0)
