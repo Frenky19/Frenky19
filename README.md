@@ -21,8 +21,10 @@ def about_me():
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Postgre-4479A1?logo=postgresql&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
 #### 🚀 DevOps & Tools
@@ -48,11 +50,12 @@ def about_me():
 
 #### 🌱 Learning & Future Goals
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/n8n-00B2FF?logo=n8n&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/SQLAlchemy-1C1C1C?logo=sqlalchemy&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Alembic-00A4EF?style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
 ---
