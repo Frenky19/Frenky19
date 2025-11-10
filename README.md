@@ -36,7 +36,6 @@ def about_me():
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&labelFontSize=16" height="32">
@@ -55,10 +54,10 @@ def about_me():
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/n8n-00B2FF?logo=n8n&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Flower-4CAF50?style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Advanced_DevOps-1976D2?style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/ML_Ops-FF9800?style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
 ---
