@@ -47,7 +47,6 @@ def about_me():
   <img src="https://img.shields.io/badge/DeepSeek-0033A0?logo=deepseek&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Grok-8B5CF6?style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?logo=google&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/AI_Integration-00C853?style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
 #### 🌱 Learning & Future Goals
@@ -56,7 +55,7 @@ def about_me():
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Flower-4CAF50?style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Advanced_DevOps-1976D2?style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/ML_Ops-FF9800?style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/AI_Integration-00C853?style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
