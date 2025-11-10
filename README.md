@@ -27,6 +27,7 @@ def about_me():
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/SQLAlchemy-1C1C1C?style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/Alembic-00A4EF?style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
 #### 🚀 DevOps & Tools
@@ -43,15 +44,21 @@ def about_me():
 
 #### 🤖 AI Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Grok-8B5CF6?style=for-the-badge&logo=x&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/DeepSeek-0033A0?logo=deepseek&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Grok-8B5CF6?style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?logo=google&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/AI_Integration-00C853?style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
 #### 🌱 Learning & Future Goals
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelFontSize=16" height="32">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/n8n-00B2FF?logo=n8n&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Flower-4CAF50?style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/Advanced_DevOps-1976D2?style=for-the-badge&labelFontSize=16" height="32">
+  <img src="https://img.shields.io/badge/ML_Ops-FF9800?style=for-the-badge&labelFontSize=16" height="32">
 </p>
 
 ---
