@@ -39,20 +39,24 @@ Currently focused on backend development, scalable APIs, infrastructure growth, 
 
 ## Selected Projects
 
-- ### OmniInbox
-    Unified ticket inbox for Telegram and Email with SLA control, reporting, RBAC, and AI-assisted workflows.  
-    Developed backend logic for ticket processing, routing, SLA tracking, admin APIs, integrations, and reporting features.  
-    **Stack:** Python, FastAPI, PostgreSQL, Redis, Docker, Celery, RabbitMQ, Telegram Bot API, IMAP/SMTP
+### OmniInbox
+Unified ticket inbox for Telegram and Email with SLA control, reporting, RBAC, and AI-assisted workflows.  
+Developed backend logic for ticket processing, routing, SLA tracking, admin APIs, integrations, and reporting features.  
+**Stack:** Python, FastAPI, PostgreSQL, Redis, Docker, Celery, RabbitMQ, Telegram Bot API, IMAP/SMTP
 
-- ### Rifttalk
-    Service for automating Discord voice channels for League of Legends players based on in-game activity.  
-    Built backend logic for game status tracking via LCU API and real-time Discord voice channel management.  
-    **Stack:** Python, FastAPI, asyncio, Discord API, LCU API, Redis, Docker Compose
+---
 
-- ### Booking System
-    REST API service for table reservations with scalable backend architecture and background task processing.  
-    Worked on API endpoints, business logic, validation, caching, and backend architecture design.  
-    **Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery, RabbitMQ, Docker
+### [Rifttalk](https://github.com/Frenky19/RiftTalk) · [Website](https://rift-talk.ru)
+Service for automating Discord voice channels for League of Legends players based on in-game activity.  
+Built backend logic for game status tracking via LCU API and real-time Discord voice channel management.  
+**Stack:** Python, FastAPI, asyncio, Discord API, LCU API, Redis, Docker Compose
+
+---
+
+### [Booking System](https://github.com/Frenky19/Booking_cafe_seats)
+REST API service for table reservations with scalable backend architecture and background task processing.  
+Worked on API endpoints, business logic, validation, caching, and backend architecture design.  
+**Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery, RabbitMQ, Docker
 
 ---
 
