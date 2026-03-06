@@ -40,9 +40,9 @@ Currently focused on backend development, scalable APIs, infrastructure growth, 
 ## Selected Projects
 
 ### OmniInbox
-Unified ticket inbox for Telegram and Email with SLA control, reporting, RBAC, and AI-assisted workflows.  
-Developed backend logic for ticket processing, routing, SLA tracking, admin APIs, integrations, and reporting features.  
-**Stack:** Python, FastAPI, PostgreSQL, Redis, Docker, Celery, RabbitMQ, Telegram Bot API, IMAP/SMTP
+Unified ticket inbox for Telegram and Email with SLA tracking, RBAC, reporting, and AI-assisted workflows.  
+Built backend features for ticket routing, admin APIs, integrations, and reporting.  
+**Stack:** Python, FastAPI, PostgreSQL, Redis, Docker, Celery, RabbitMQ
 
 ---
 
