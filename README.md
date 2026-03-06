@@ -4,7 +4,7 @@
 ### Python Backend Developer
 
 Backend developer focused on building reliable web services, APIs, and scalable server-side solutions.  
-Currently deepening my expertise in Python backend development and looking for opportunities to grow in strong product teams.
+Open to backend opportunities and interested in working on meaningful product-driven systems.
 
 [Telegram](https://t.me/Frenky_19) • [Discord](https://discordapp.com/users/nadek0) • [Email](mailto:frenkodetto@yandex.ru)
 
@@ -14,24 +14,19 @@ Currently deepening my expertise in Python backend development and looking for o
 
 ## About Me
 
-I develop backend applications in Python and enjoy solving practical engineering problems: from API design and database modeling to service architecture and integrations.
+I develop backend applications in Python and enjoy solving practical engineering problems — from API design and database modeling to integrations and service architecture.
 
-At the moment, I am focused on:
-- backend development with Python
-- building REST APIs and web services
-- working with databases and asynchronous tools
-- improving architecture, code quality, and deployment skills
-- exploring AI integrations in backend products
+Currently focused on backend development, scalable APIs, infrastructure growth, and AI-powered product integrations.
 
 ---
 
 ## Tech Stack
 
-**Backend:** Python, Django, FastAPI, Flask  
-**Databases:** PostgreSQL, Redis, SQLAlchemy, Alembic  
-**Tools:** Git, GitHub Actions, Docker, Postman, Bash, Linux  
-**Frontend basics:** HTML, CSS, JavaScript  
-**Additional interest:** AI tools and API integrations
+**Backend:** Python, FastAPI, Django, Flask  
+**Databases:** PostgreSQL, Redis  
+**ORM & Tools:** SQLAlchemy, Alembic, Celery, RabbitMQ  
+**DevOps & Workflow:** Docker, Git, GitHub Actions, Linux, Bash, Postman  
+**Additional:** REST API, asyncio, integrations
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -39,23 +34,30 @@ At the moment, I am focused on:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+
+---
+
+## Selected Projects
+
+- ### OmniInbox
+    Unified ticket inbox for Telegram and Email with SLA control, reporting, RBAC, and AI-assisted workflows.  
+    Developed backend logic for ticket processing, routing, SLA tracking, admin APIs, integrations, and reporting features.  
+    **Stack:** Python, FastAPI, PostgreSQL, Redis, Docker, Celery, RabbitMQ, Telegram Bot API, IMAP/SMTP
+
+- ### Rifttalk
+    Service for automating Discord voice channels for League of Legends players based on in-game activity.  
+    Built backend logic for game status tracking via LCU API and real-time Discord voice channel management.  
+    **Stack:** Python, FastAPI, asyncio, Discord API, LCU API, Redis, Docker Compose
+
+- ### Booking System
+    REST API service for table reservations with scalable backend architecture and background task processing.  
+    Worked on API endpoints, business logic, validation, caching, and backend architecture design.  
+    **Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery, RabbitMQ, Docker
+
 ---
 
 ## Current Focus
 
-- Improving backend architecture skills
-- Deepening knowledge of FastAPI and scalable service design
-- Strengthening DevOps fundamentals and containerized workflows
-- Building production-oriented pet and commercial projects
-- Expanding experience in AI-powered backend solutions
-
----
-
-## Strengths
-
-- Strong analytical approach to problem solving
-- Fast learning and deep involvement in new technologies
-- Careful attention to code structure and maintainability
-- Good research skills and ability to work through unfamiliar tasks
-- Motivation to contribute to meaningful and technically interesting projects
+- Backend architecture and scalable service design
+- FastAPI, async workflows, and integrations
+- DevOps fundamentals and production-oriented development
