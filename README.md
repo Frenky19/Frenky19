@@ -1,88 +1,61 @@
 <div align="center">
-  
-# <a href="https://github.com/Frenky19" style="color: #1e90ff; text-decoration: none">🐍 Andrey Golovushkin | Python Backend Developer</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1E90FF&width=470&lines=%0A%F0%9F%91%8B%0A%F0%9F%91%8B%20%20+Welcome+to+my+profile!+%0A%F0%9F%91%8B%0A%F0%9F%91%8B;Studying+backend+Python+development;%E2%9C%A8+Always+learning+new+things+%E2%9C%A8)](https://git.io/typing-svg)
+# Andrey Golovushkin
+### Python Backend Developer
+
+Backend developer focused on building reliable web services, APIs, and scalable server-side solutions.  
+Currently deepening my expertise in Python backend development and looking for opportunities to grow in strong product teams.
+
+[Telegram](https://t.me/Frenky_19) • [Discord](https://discordapp.com/users/nadek0) • [Email](mailto:frenkodetto@yandex.ru)
+
 </div>
 
 ---
 
-### 🛠️ **Developer Toolkit**
-```python
-def about_me():
-    current_mission = "Building scalable backend systems"
-    learning_path = "Advanced Python Developer @ Yandex Practicum"
-    superpower = "Professional Googler™ (10+ years XP)"
-    hobbies = ["Solving coding puzzles", "Strategic gaming", "Tech exploration"]
-    return {"status": "Open for collaborations!"}
-```
+## About Me
 
-#### 🔧 Core Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/SQLAlchemy-1C1C1C?style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Alembic-00A4EF?style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-</p>
+I develop backend applications in Python and enjoy solving practical engineering problems: from API design and database modeling to service architecture and integrations.
 
-#### 🚀 DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&labelFontSize=16" height="32">
-</p>
-
-#### 🤖 AI Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/DeepSeek-0033A0?logo=deepseek&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Grok-8B5CF6?style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?logo=google&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-</p>
-
-#### 🌱 Learning & Future Goals
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Flower-4CAF50?style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Advanced_DevOps-1976D2?style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/AI_Integration-00C853?style=for-the-badge&labelFontSize=16" height="32">
-  <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=for-the-badge&labelFontSize=16" height="32">
-</p>
+At the moment, I am focused on:
+- backend development with Python
+- building REST APIs and web services
+- working with databases and asynchronous tools
+- improving architecture, code quality, and deployment skills
+- exploring AI integrations in backend products
 
 ---
 
-### 🎯 Core Strengths
-- 🧠 **Problem Solving**: From code debugging to real-life puzzles
-- 🔍 **Research Mastery**: "If it exists online, I'll find it" approach  
-- 🕹️ **Gaming Mindset**: Applying strategic thinking from Hearthstone to code architecture 
-- 📚 **Continuous Learning**: Currently exploring FastAPI & Docker ecosystems  
-- 🛡️ **Stress Immunity**: Full composure forged in soulslike gaming fires
-- ⚔️ **Boss Battle Mentality**: "You Died" is just a progress checkpoint
+## Tech Stack
+
+**Backend:** Python, Django, FastAPI, Flask  
+**Databases:** PostgreSQL, Redis, SQLAlchemy, Alembic  
+**Tools:** Git, GitHub Actions, Docker, Postman, Bash, Linux  
+**Frontend basics:** HTML, CSS, JavaScript  
+**Additional interest:** AI tools and API integrations
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+---
+
+## Current Focus
+
+- Improving backend architecture skills
+- Deepening knowledge of FastAPI and scalable service design
+- Strengthening DevOps fundamentals and containerized workflows
+- Building production-oriented pet and commercial projects
+- Expanding experience in AI-powered backend solutions
 
 ---
 
-### 🎮 When I'm Not Coding
-- ♟️ Playing games;)
-- 🧩 Complex Puzzle Solving
-- 🌐 Exploring New Tech Horizons
-- 🎲 Board Game Strategy Sessions
-- 🎬 Anime Universe Exploration: Analyzing Jojo's big "brains"
+## Strengths
 
----
-
-## 💬 Let's Connect!
-"Great developers aren't born - they're connected. Let's build something sweat!"
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Frenky_19-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Frenky_19)
-[![Discord](https://img.shields.io/badge/Discord-nadek0%234870-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/nadek0)
-[![Email](https://img.shields.io/badge/Email-Write_me-FFA500?logo=gmail&logoColor=white&style=flat-square)](mailto:frenkodetto@yandex.ru)
+- Strong analytical approach to problem solving
+- Fast learning and deep involvement in new technologies
+- Careful attention to code structure and maintainability
+- Good research skills and ability to work through unfamiliar tasks
+- Motivation to contribute to meaningful and technically interesting projects
